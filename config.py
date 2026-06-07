@@ -3,8 +3,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-OWNER_ID = int(os.getenv("OWNER_ID", 0))
+BOT_TOKEN = os.getenv("8698455754:AAFBHjh-xQ_bDl6g2IV6RsUKsu5BaBNs3g8", "")
+OWNER_ID = int(os.getenv("8698455754", 0))
 
 BOT_NAME = "ريو"
 BOT_NAME_EN = "Rio"
